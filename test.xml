@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Company>
+    <Location>
+        <Latitude>10</Latitude>
+        <Longitude>10</Longitude>
+    </Location>
+    <Location>
+        <Latitude>20</Latitude>
+        <Longitude>20</Longitude>
+    </Location>
+    <Location>
+        <Latitude>30</Latitude>
+        <Longitude>30</Longitude>
+    </Location>
+</Company>
